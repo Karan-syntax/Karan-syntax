@@ -31,10 +31,6 @@ structured databases, and scalable backend systems.
 
 <div align="center">
 
-## ⚙️ Tech Stack
-
-<div align="center">
-
 ## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python&perline=7" />
