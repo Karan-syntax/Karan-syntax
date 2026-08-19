@@ -80,6 +80,16 @@ Check out my deployed projects and applications.
 
 <div align="center">
 
+## 📈 My Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-syntax&theme=tokyo-night&hide_border=true" alt="Karan's contribution graph" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## ✨ Development Philosophy
 
 **Think clearly. Build consistently. Improve every project.**
