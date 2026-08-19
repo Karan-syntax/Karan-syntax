@@ -33,13 +33,25 @@ structured databases, and scalable backend systems.
 
 ## ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,postgres,git,github,vscode&perline=11" />
+<div align="center">
+
+## 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python&perline=7" />
+
+<br><br>
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres&perline=1" />
+
+<br><br>
+
+## 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 
 </div>
-
----
-
-<div align="center">
 
 ## 🚀 Focus Areas
 
