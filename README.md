@@ -5,27 +5,28 @@
 ### Java Full Stack Developer | Web Development | AI/ML
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences;Java+Backend+%7C+Databases+%7C+AI%2FML;Turning+ideas+into+working+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+modern+web+experiences;Java+Backend+%7C+Databases+%7C+AI%2FML;Turning+ideas+into+working+software" alt="Typing SVG" />
 </p>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="340"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding animation" />
 
 ## 👨‍💻 About Me
 
-I enjoy building end-to-end digital experiences: responsive interfaces,
-structured databases, and scalable backend systems.
+I’m **Karan**, a web developer focused on building modern, responsive,
+and meaningful digital experiences.
 
-- 🔭 Focused on **Full Stack Web Development**
-- ☕ Building with **Java** for backend systems
-- 🧠 Interested in **AI/ML-powered applications**
-- ⚡ I value clean code, strong logic, and real projects
+I work across **frontend development, Java-based backend systems, and PostgreSQL databases**,
+with an interest in creating intelligent, AI-powered applications.
 
-<br clear="both">
+**Web Development • Java Backend • Databases • AI/ML**
+
+</div>
 
 ---
 
@@ -35,25 +36,11 @@ structured databases, and scalable backend systems.
 
 <br>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,html,css,javascript,java,python,postgresql&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,html,css,javascript,java,python&theme=dark" alt="Programming languages" />
 
 <br><br>
 
----
-
-<br>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github&theme=dark" />
-
-</div>
-
-## 🚀 Focus Areas
-
-| 🌐 Web Development | ☕ Java Backend | 🤖 AI / ML |
-| :---: | :---: | :---: |
-| Responsive UI | REST APIs | Intelligent applications |
-| JavaScript | Databases | Python |
-| Modern web apps | PostgreSQL | Data-driven systems |
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,vscode,git,github&theme=dark" alt="Databases and tools" />
 
 </div>
 
@@ -61,27 +48,16 @@ structured databases, and scalable backend systems.
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 🚀 Core Focus
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karan-syntax&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-syntax&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Web%20Development-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/Java%20Backend-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Karan-syntax&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🧩 What I Build
-
-🌐 Modern web interfaces  
-☕ Java-based backend applications  
-🗄️ Database-driven systems  
-🤖 AI-powered project ideas  
+> Building clean interfaces, reliable backend systems,  
+> and software that solves real problems.
 
 </div>
 
@@ -89,6 +65,8 @@ structured databases, and scalable backend systems.
 
 <div align="center">
 
-### “Great software starts with curiosity, consistency, and clean code.”
+## ✨ Development Philosophy
+
+**Think clearly. Build consistently. Improve every project.**
 
 </div>
