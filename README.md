@@ -54,7 +54,7 @@ with an interest in creating intelligent, AI-powered applications.
 <img src="https://img.shields.io/badge/Java%20Backend-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
 <img src="https://img.shields.io/badge/AI%20%2F%20ML-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
 
-<br><br>
+<br>
 
 > Building clean interfaces, reliable backend systems,  
 > and software that solves real problems.
