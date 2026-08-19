@@ -65,6 +65,21 @@ with an interest in creating intelligent, AI-powered applications.
 
 <div align="center">
 
+## 🚀 Live Projects 🚀
+
+Check out my deployed projects and applications.
+
+| Project | Details | Tech Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **My Portfolio** | [View Repository](https://github.com/Karan-syntax/My--Portfolio) | `React` `Node.js` `Express` `MongoDB` | [Live Demo](https://my-portfolio-r6w3.vercel.app) |
+| **Personal Expense Tracker** | [View Repository](https://github.com/Karan-syntax/personal-expense-tracker) | `C` `File Handling` | — |
+
+</div>
+
+---
+
+<div align="center">
+
 ## ✨ Development Philosophy
 
 **Think clearly. Build consistently. Improve every project.**
