@@ -31,21 +31,19 @@ structured databases, and scalable backend systems.
 
 <div align="center">
 
-## 💻 Languages
+## ⚙️ Languages & Tools ⚙️
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python&perline=7" />
+<br>
 
-<br><br>
-
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres&perline=1" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,html,css,javascript,java,python,postgresql&theme=dark" />
 
 <br><br>
 
-## 🛠️ Tools & Platforms
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
+<br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github&theme=dark" />
 
 </div>
 
