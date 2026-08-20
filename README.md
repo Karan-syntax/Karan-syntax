@@ -36,7 +36,7 @@ with an interest in creating intelligent, AI-powered applications.
 
 <br>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,html,css,javascript,java,python&theme=dark" alt="Programming languages" />
+<img <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,py&theme=dark" alt="Programming languages" />
 
 <br><br>
 
