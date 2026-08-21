@@ -71,6 +71,7 @@ Check out my deployed projects and applications.
 
 | Project                      | Details                                                                     | Tech Stack                                      | Live Demo |
 | :--------------------------- | :-------------------------------------------------------------------------- | :---------------------------------------------- | :-------- |
+|**SYNORA – GenAI Workspace**  | [View Repository](https://github.com/Karan-syntax/SYNORA) | `React` `TypeScript` `Express` `MongoDB` `Groq API` `Sarvam AI`         | [Live Demo](https://synora-beige.vercel.app) |
 | **My Portfolio**             | [View Repository](https://github.com/Karan-syntax/My--Portfolio)            | `React` `Node.js` `Express` `MongoDB`            | [Live Demo](https://my-portfolio-karan-ee98.vercel.app/) |
 | **SkyFlow – AI Weather Intelligence** | **[View Repository](YOUR_SKYFLOW_GITHUB_REPO_URL)** | `HTML` `JavaScript` `Tailwind CSS` `Weather API` `Gemini API` | [Live Demo](https://ai-weather-app-iota.vercel.app) |
 | **Personal Expense Tracker** | [View Repository](https://github.com/Karan-syntax/personal-expense-tracker) | `C` `File Handling`                             | — |
